@@ -1,2 +1,2 @@
 # svg-turtle
-Python SVG renderer using Turtle.
+WIP Python SVG renderer using Turtle.
